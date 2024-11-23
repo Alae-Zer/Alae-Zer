@@ -1,12 +1,12 @@
 👨‍💻 Welcome to My Portfolio!
 
-Hi there! I’m Alae Zer, an international student from Morocco currently pursuing the Information Technology: Programmer Analyst program at NBCC Saint John, Canada. I’m passionate about leveraging technology to solve real-world problems and crafting innovative solutions through programming and system design.
+Hi there! I’m Mohammed-Alae Zerrou, an international student from Morocco currently pursuing the Information Technology: Programmer Analyst program at NBCC Saint John, Canada. I’m passionate about leveraging technology to solve real-world problems and crafting innovative solutions through programming and system design.
 
 🧑‍🎓 About Me
 
 As a Programmer Analyst in training, I specialize in software development and database systems. With a solid foundation in programming languages like C#, Java, JavaScript, and SQL, I enjoy creating intuitive applications and optimizing systems for business environments. My ultimate goal is to contribute to impactful projects that improve efficiency, user experience, and scalability.
 
-I'm also experienced in team collaboration, problem-solving, and creative thinking, which I honed through coursework and personal projects.
+I'm also experienced in team collaboration, problem-solving, and creative thinking, which I honed through coursework and personal projects and team projects.
 
 🔧 Skills
 
@@ -21,12 +21,17 @@ Here’s a quick overview of my technical skills and expertise:
 
 🚀 Projects
 
-Ferry System Application
+Flight Schedule Management System
 
-    Description: A Java-based application to manage ferry operations, including ticket booking, route management, and passenger logs.
-    Technologies Used: Java, MySQL
-    Role & Responsibilities: Designed and implemented the backend logic and database structure.
-    Repository Link: Ferry System Project
+    Description: A Java application that manages and displays flight schedules, supporting Passenger, Cargo, and Training flights. The program processes flight data from a CSV file, generates reports, and validates compliance with airline policies.
+    Technologies Used: Java, NetBeans IDE
+    Role & Responsibilities:
+        Implemented classes (Flight, PassengerFlight, CargoFlight, TrainingFlight) using object-oriented principles.
+        Processed flight data and displayed it in both archive and summary report formats.
+        Developed policy validation for crew size, timing, and weight limits.
+        Created interactive GUI functionalities for filtering and summarizing flight data.
+    Key Features: Dynamic flight management, policy enforcement, and summary reporting.
+    Repository Link: https://github.com/Alae-Zer/Flight-Schedule-Management-System
     
 
 Book Database Management System
