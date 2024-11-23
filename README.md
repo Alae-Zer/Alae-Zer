@@ -24,7 +24,7 @@ Here’s a quick overview of my technical skills and expertise:
 Flight Schedule Management System
 
     Description: A Java application that manages and displays flight schedules, supporting Passenger, Cargo, and Training flights. The program processes flight data from a CSV file, generates reports, and validates compliance with airline policies.
-    Technologies Used: Java, NetBeans IDE
+    Technologies Used: Java, IntelliJ IDEA IDE
     Role & Responsibilities:
         Implemented classes (Flight, PassengerFlight, CargoFlight, TrainingFlight) using object-oriented principles.
         Processed flight data and displayed it in both archive and summary report formats.
