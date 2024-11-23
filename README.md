@@ -7,6 +7,7 @@ Hi there! I’m Alae Zer, an international student from Morocco currently pursui
 As a Programmer Analyst in training, I specialize in software development and database systems. With a solid foundation in programming languages like C#, Java, JavaScript, and SQL, I enjoy creating intuitive applications and optimizing systems for business environments. My ultimate goal is to contribute to impactful projects that improve efficiency, user experience, and scalability.
 
 I'm also experienced in team collaboration, problem-solving, and creative thinking, which I honed through coursework and personal projects.
+
 🔧 Skills
 
 Here’s a quick overview of my technical skills and expertise:
@@ -16,14 +17,17 @@ Here’s a quick overview of my technical skills and expertise:
     Web Development: Responsive Web Design, UI/UX Design, Quality Assurance Testing
     Tools & Frameworks: Visual Studio, Android Studio, Git, Microsoft Office Suite
     Key Competencies: Object-Oriented Programming (OOP), System Analysis, Data Visualization, Networking Basics
+    
 
 🚀 Projects
+
 Ferry System Application
 
     Description: A Java-based application to manage ferry operations, including ticket booking, route management, and passenger logs.
     Technologies Used: Java, MySQL
     Role & Responsibilities: Designed and implemented the backend logic and database structure.
     Repository Link: Ferry System Project
+    
 
 Book Database Management System
 
@@ -41,6 +45,7 @@ Responsive Web Design Portfolio
 
 
 🎓 Education
+
 Information Technology: Programmer Analyst
 
 NBCC Saint John, Canada | 2025 (Expected Graduation)
@@ -53,11 +58,13 @@ NBCC Saint John, Canada | 2025 (Expected Graduation)
         Fundamentals of Web and Responsive Design
         Quality Assurance Testing
 
+
 📬 Contact Me
 
     Email: alaezeroutdi@example.com
     LinkedIn: https://www.linkedin.com/in/alae-zerrou-6091b3235/
     GitHub: https://github.com/Alae-Zer
+    
 
 🌟 Let’s Connect!
 
