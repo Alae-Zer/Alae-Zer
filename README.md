@@ -38,17 +38,11 @@ Responsive Web Design Portfolio
     Role & Responsibilities: Frontend design and interactive features.
     Live Demo: [Coming Soon]
 
-💼 Experience
-Freelance Web Developer (2023)
-
-    Collaborated with local businesses to design and deploy responsive websites tailored to their needs.
-    Integrated database systems to enable dynamic content updates.
-    Conducted usability testing to ensure optimal user experience.
 
 🎓 Education
 Information Technology: Programmer Analyst
 
-NBCC Saint John, Canada | 2024 (Expected Graduation)
+NBCC Saint John, Canada | 2025 (Expected Graduation)
 
     Key Areas of Study:
         Programming in Java, C#, JavaScript, and PHP
@@ -60,9 +54,9 @@ NBCC Saint John, Canada | 2024 (Expected Graduation)
 
 📬 Contact Me
 
-    Email: alae.zer@example.com
-    LinkedIn: linkedin.com/in/alae-zer
-    GitHub: github.com/Alae-Zer
+    Email: alaezeroutdi@example.com
+    LinkedIn: [linkedin.com/in/alae-zer](https://www.linkedin.com/in/alae-zerrou-6091b3235/)
+    GitHub: https://github.com/Alae-Zer
 
 🌟 Let’s Connect!
 
