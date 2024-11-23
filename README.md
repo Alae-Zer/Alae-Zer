@@ -34,12 +34,18 @@ Flight Schedule Management System
     Repository Link: https://github.com/Alae-Zer/Flight-Schedule-Management-System
     
 
-Book Database Management System
+Form Validation System in PHP
 
-    Description: A MySQL database project with 20+ entities, optimized for efficient book tracking in a library.
-    Technologies Used: MySQL, Database Design
-    Role & Responsibilities: Designed and implemented database schema, ensuring data integrity and security.
-    Repository Link: Book Database Project
+    Description: A project showcasing client-side and server-side form validation. The client-side app uses HTML5 and JavaScript for dynamic validation, while the server-side app relies entirely on PHP for robust input handling.
+    Technologies Used: HTML5, JavaScript, PHP
+    Role & Responsibilities:
+        Built a dynamic form with HTML5 attributes (pattern, required, min) and JavaScript for validation.
+        Developed PHP scripts for input validation and error handling without relying on HTML/JS validation.
+        Tested and documented validation results with screenshots.
+    Key Features:
+        Dynamic field generation and real-time validation with JavaScript.
+        Server-side validation with error persistence and JSON response.
+    Repository Link: https://github.com/Alae-Zer/PHP-Validation-Testing
 
 Responsive Web Design Portfolio
 
