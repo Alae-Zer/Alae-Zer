@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi there, I'm Alae 👋
 
-<!--
-**Alae-Zer/Alae-Zer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate software developer and an international student at NBCC Saint John, Canada. I specialize in:
 
-Here are some ideas to get you started:
+- 🌟 Java, C#, JavaScript, HTML, CSS, and SQL
+- 📊 Database design, system analysis, and quality assurance testing
+- 🤝 Teamwork, problem-solving, and creative solutions
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 My Projects
+- [Ferry System Application](https://github.com/your-repo-link) – A Java application for managing ferry operations.
+- [Book Database](https://github.com/your-repo-link) – A MySQL database project with 20+ entities.
+
+## 📫 Let's Connect
+- **Email**: your.email@example.com
+- **LinkedIn**: [Your LinkedIn](https://linkedin.com/in/your-profile)
+- **GitHub**: [Alae-Zer](https://github.com/Alae-Zer)
