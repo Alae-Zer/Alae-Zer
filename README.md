@@ -1,6 +1,7 @@
 👨‍💻 Welcome to My Portfolio!
 
 Hi there! I’m Alae Zer, an international student from Morocco currently pursuing the Information Technology: Programmer Analyst program at NBCC Saint John, Canada. I’m passionate about leveraging technology to solve real-world problems and crafting innovative solutions through programming and system design.
+
 🧑‍🎓 About Me
 
 As a Programmer Analyst in training, I specialize in software development and database systems. With a solid foundation in programming languages like C#, Java, JavaScript, and SQL, I enjoy creating intuitive applications and optimizing systems for business environments. My ultimate goal is to contribute to impactful projects that improve efficiency, user experience, and scalability.
