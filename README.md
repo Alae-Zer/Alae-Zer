@@ -72,7 +72,7 @@ NBCC Saint John, Canada | 2025 (Expected Graduation)
 
 📬 Contact Me
 
-    Email: alaezeroutdi@example.com
+    Email: alaezeroutdi@gmail.com
     LinkedIn: https://www.linkedin.com/in/alae-zerrou-6091b3235/
     GitHub: https://github.com/Alae-Zer
     
